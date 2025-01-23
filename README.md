@@ -1,0 +1,1 @@
+An Arduino program that first calibrates the light sensor to the environment, then looks for marbles added based on changes in the ligh sensor. Adds a specified amount of time for each marble. When program starts, runs for given time and ejects a marble down the slopes at set intervals.
